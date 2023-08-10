@@ -7,3 +7,8 @@ ul{
     gap: 24px;
     margin-left: auto;
 }
+
+li{
+    list-style: none;
+    font-size: 18px;
+}
