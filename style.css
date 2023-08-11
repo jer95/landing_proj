@@ -1,3 +1,4 @@
+
 .section-1{
     background-color: #1f2937;
 }
@@ -15,6 +16,7 @@ ul{
 li{
     list-style: none;
     font-size: 18px;
+    color: #E5E7EB;
 }
 
 .block{
@@ -23,12 +25,20 @@ li{
 
 h3{
     font-size: 24px;
+    color: #F9FAF8;
 }
 
 .logo-img{
     max-width: 250px;
     max-height: 200px;
     height: auto;
-    width: auto;
-    
+    width: auto;   
+}
+
+.main-hero{
+    color: #F9FAF8;
+}
+
+.side-hero{
+    color: #E5E7EB;
 }
