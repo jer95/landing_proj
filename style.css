@@ -43,9 +43,11 @@ h3{
 .main-hero{
     color: #F9FAF8;
     margin-left: 5px;
+    font-size: 48px;
 }
 
 .side-hero{
     color: #E5E7EB;
     margin-left: 5px;
+    font-size: 18px;
 }
