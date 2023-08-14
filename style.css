@@ -40,6 +40,13 @@ h3{
     width: auto;   
 }
 
+.aspect-ratio{
+    max-width: 200px;
+    max-height: 150px;
+    height: auto;
+    width: auto;
+}
+
 .main-hero{
     color: #F9FAF8;
     margin-left: 5px;
