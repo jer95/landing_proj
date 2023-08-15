@@ -58,3 +58,7 @@ h3{
     margin-left: 5px;
     font-size: 18px;
 }
+
+.main-container{
+    display: flex;
+}
