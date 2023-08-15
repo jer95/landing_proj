@@ -62,3 +62,11 @@ h3{
 .main-container{
     display: flex;
 }
+
+.hero-container{
+    flex: 2 1 40%;
+}
+
+.sneaker-container{
+    flex: 1 2 60%;
+}
