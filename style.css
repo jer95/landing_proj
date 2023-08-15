@@ -75,3 +75,8 @@ h3{
     margin-bottom: 8px;
     gap: 12px;
 }
+
+.flex-img{
+    display: flex;
+    flex-direction: column;
+}
