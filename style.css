@@ -20,7 +20,7 @@ ul{
     margin-right: 16px;
 }
 
-li{
+ul li{
     list-style: none;
     font-size: 18px;
     color: #E5E7EB;
