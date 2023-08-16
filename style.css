@@ -91,3 +91,10 @@ figcaption{
 .caption{
     color: #1f2937
 }
+
+.space-wrap{
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 8px;
+}
