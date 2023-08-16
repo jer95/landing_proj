@@ -5,6 +5,10 @@ body{
     background-color: #1f2937;
 }
 
+.section-2{
+    margin-left: 8px;
+}
+
 nav{
     display: flex;
 }
@@ -61,6 +65,7 @@ h3{
 
 .main-container{
     display: flex;
+    margin-left: 8px;
 }
 
 .hero-container{
