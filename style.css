@@ -98,3 +98,9 @@ figcaption{
     gap: 12px;
     margin-top: 8px;
 }
+
+.sotw-header{
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: bold;
+}
