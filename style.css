@@ -123,3 +123,8 @@ figcaption{
     margin-bottom: 8px;
     border-radius: 20px;
 }
+
+.instructions{
+    color:#E5E7EB;
+    font-size: 18px;
+}
