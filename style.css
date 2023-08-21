@@ -112,3 +112,8 @@ figcaption{
 .indent{
     margin-left: 8px;
 }
+
+.instructions-container{
+    width: fit-content;
+    background-color: #3882F6;
+}
