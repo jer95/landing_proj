@@ -107,6 +107,8 @@ figcaption{
     color: #1f2937;
     font-size: 36px;
     font-weight: bold;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
 .indent{
