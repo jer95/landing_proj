@@ -55,6 +55,7 @@ h3{
     color: #F9FAF8;
     margin-left: 5px;
     font-size: 48px;
+    margin-top: 12px;
 }
 
 .side-hero{
@@ -69,6 +70,7 @@ h3{
 
 .hero-container{
     flex: 1 2 auto;
+    padding: 12px;
 }
 
 .sneaker-container{
@@ -78,6 +80,7 @@ h3{
     flex-grow: 2;
     margin-bottom: 8px;
     gap: 12px;
+    padding: 12px;
 }
 
 .flex-img{
