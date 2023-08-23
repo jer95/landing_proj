@@ -179,3 +179,8 @@ footer p{
 footer{
     margin-top: 8px;
 }
+
+a{
+    color: #E5E7EB;
+    text-decoration: none;
+}
