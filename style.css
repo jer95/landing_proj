@@ -162,3 +162,7 @@ form{
 input{
     flex-grow: 1;
 }
+
+.mail input[type="email"]{
+    flex-grow: 3;
+}
