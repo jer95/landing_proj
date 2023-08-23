@@ -68,14 +68,14 @@ h3{
 }
 
 .hero-container{
-    flex: 2 1 40%;
+    flex: 1 2 auto;
 }
 
 .sneaker-container{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    flex: 1 2 60%;
+    flex-grow: 2;
     margin-bottom: 8px;
     gap: 12px;
 }
