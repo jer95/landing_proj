@@ -7,6 +7,7 @@ body{
 
 .section-3{
     background-color: #E5E7EB;
+    padding: 12px;
 }
 
 nav{
@@ -55,13 +56,14 @@ h3{
     color: #F9FAF8;
     margin-left: 5px;
     font-size: 48px;
-    margin-top: 12px;
+    margin-top: 18px;
 }
 
 .side-hero{
     color: #E5E7EB;
     margin-left: 5px;
     font-size: 18px;
+    line-height: 1.8em;
 }
 
 .main-container{
