@@ -153,3 +153,8 @@ form{
     flex-grow: 1;
     flex-wrap: wrap;
 }
+
+.mail{
+    flex-grow: 3;
+    flex-wrap: wrap;
+}
