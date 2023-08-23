@@ -141,6 +141,7 @@ form{
 .name, .pass, .mail{
     display: flex;
     max-width: 275px;
+    gap: 8px;
 }
 
 .name{
