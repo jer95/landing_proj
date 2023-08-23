@@ -166,3 +166,7 @@ input{
 .mail input[type="email"]{
     flex-grow: 3;
 }
+
+input[type="submit"]{
+    max-width: 180px;
+}
