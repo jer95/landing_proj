@@ -142,3 +142,13 @@ form{
     display: flex;
     max-width: 275px;
 }
+
+.name{
+    flex-grow: 1;
+    flex-wrap: wrap;
+}
+
+.pass{
+    flex-grow: 1;
+    flex-wrap: wrap;
+}
