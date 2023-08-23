@@ -137,3 +137,8 @@ form{
     padding: 8px;
     margin-right: 8px;
 }
+
+.name, .pass, .mail{
+    display: flex;
+    max-width: 275px;
+}
